@@ -1,4 +1,4 @@
-# 💰 Bank Loan Analysis Dashboard
+# 💰 Bank Loan Analysis
 
 A data analytics project focused on analyzing loan application and borrower data to uncover lending trends, identify risk patterns, and support data-driven financial decision-making.
 
